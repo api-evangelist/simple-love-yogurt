@@ -64,6 +64,70 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Simple Love Yogurt is a company surfaced as a portfolio company of hongshan and added to the API Evangelist network as a stub for enrichment. Sector: consumer. This profile is a lead awaiting the enrichment pipeline.
+Simple Love (简爱酸奶) is a Chinese natural yogurt brand operated by Pucheng Dairy (Group) Co., Ltd. (朴诚乳业), founded in 2016. Known for zero-additive, low-temperature fresh yogurts with short ingredient lists — including its no-sugar, probiotic, high-protein, and coconut lines — the brand is distributed across supermarket shelves in every Chinese province and operates its own manufacturing capacity in Hebei. Surfaced as a portfolio company of Hongshan and added to the API Evangelist network as a stub. As a consumer packaged-goods (CPG) dairy company it publishes a corporate/consumer website but no public developer, API, or programmatic surface.
 
-Backed by: hongshan
+**Areas:** Company · Consumer · Consumer Packaged Goods · Dairy · Yogurt · Food and Beverage · China
+
+## Simple Love Yogurt on APIs.io
+
+Everything profiled for Simple Love Yogurt is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/simple-love-yogurt/](https://apis.io/providers/simple-love-yogurt/)** — or go straight to one of the APIs or properties below.
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.simplelove.com.cn/)
+- [Blog](https://www.simplelove.com.cn/news.html)
+
+## API Evangelist rating
+
+**Kin Score 3.0** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 0.0** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/simple-love-yogurt/](https://apis.io/providers/simple-love-yogurt/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Simple Love Yogurt: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/simple-love-yogurt/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
